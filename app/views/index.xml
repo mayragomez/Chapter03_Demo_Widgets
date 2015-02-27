@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="mainWindow" class="container">
+		<Require type="widget" src="buttonToggle" id="buttonWidget"></Require>
+	</Window>
+</Alloy>
