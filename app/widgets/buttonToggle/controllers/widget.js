@@ -6,7 +6,7 @@ $.container.addEventListener('click', function(_event){
 
 //_buttonId name of the id clicked
 function buttonToggleByIdClicked(_buttonId){
-	if (_buttonId === "off") {
+	if (_buttonId === "on") {
 		$.on.hide();
 		$.off.show();
 	}
