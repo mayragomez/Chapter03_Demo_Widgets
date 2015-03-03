@@ -8,6 +8,6 @@
     "os:ios": {},
     "os:mobileweb": {},
     "dependencies": {
-        "buttonToggle": "1.0"
+        "ButtonToggle": "1.0"
     }
 }
